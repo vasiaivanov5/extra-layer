@@ -1,4 +1,4 @@
-FROM jelastic/storage
+FROM jelastic/mysql
 
 LABEL "name"="ElasticSearch"
 LABEL "nodeMission"="extra"
