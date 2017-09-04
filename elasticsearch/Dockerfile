@@ -1,6 +1,3 @@
 FROM jelastic/mysql
 
-LABEL "name"="ElasticSearch"
-LABEL "nodeMission"="extra"
-LABEL "nodeType"="elasticSearch"
-LABEL "nodeVersion"="0.1 beta"
+LABEL "name"="ElasticSearch" "nodeMission"="extra" "nodeType"="elasticSearch" "nodeVersion"="0.1 beta" "nodeTypeAlias"=""
